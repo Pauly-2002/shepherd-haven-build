@@ -46,17 +46,6 @@ export const Route = createRootRoute({
   notFoundComponent: NotFoundComponent,
 });
 
-function RootComponent() {
-  return (
-    <div className="min-h-screen">
-      <Header />
-      <main>
-        <Outlet />
-      </main>
-      <Footer />
-    </div>
-  );
-}
 
 function RootComponent() {
   return (
