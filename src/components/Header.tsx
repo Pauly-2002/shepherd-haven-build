@@ -114,7 +114,7 @@ export function Header() {
             <div className="mt-6">
               <Button variant="emergency" className="w-full gap-2">
                 <Phone className="h-4 w-4" />
-                1-800-OUR-PAWS
+                +234 800 OUR PAWS
               </Button>
             </div>
           </div>

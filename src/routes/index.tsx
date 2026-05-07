@@ -111,10 +111,10 @@ function HomePage() {
           </div>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {[
-              { name: "ShepherdFuel Pro Kibble", price: "$64.99", rating: 4.9 },
-              { name: "Hip & Joint Chews", price: "$34.99", rating: 4.8 },
-              { name: "De-shedding Shampoo", price: "$18.99", rating: 4.7 },
-              { name: "Orthopedic Memory Bed", price: "$89.99", rating: 4.9 },
+              { name: "ShepherdFuel Pro Kibble", price: "₦45,000", rating: 4.9 },
+              { name: "Hip & Joint Chews", price: "₦25,000", rating: 4.8 },
+              { name: "De-shedding Shampoo", price: "₦13,500", rating: 4.7 },
+              { name: "Orthopedic Memory Bed", price: "₦65,000", rating: 4.9 },
             ].map((product) => (
               <div key={product.name} className="hover-lift rounded-3xl bg-card p-5 shadow-md">
                 <div className="mb-4 flex h-40 items-center justify-center rounded-2xl bg-sage text-4xl">

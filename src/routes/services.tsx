@@ -74,9 +74,9 @@ function ServicesPage() {
           <h2 className="mb-12 text-center font-display text-3xl font-bold">Care Plans</h2>
           <div className="grid gap-6 md:grid-cols-3">
             {[
-              { name: "Basic Wellness", price: "$75", period: "/visit", features: ["Annual exam", "Core vaccinations", "Health consultation"], highlight: false },
-              { name: "Comprehensive Care", price: "$199", period: "/month", features: ["All Basic features", "Dental cleaning", "Lab work included", "Priority booking"], highlight: true },
-              { name: "Premium VIP", price: "$349", period: "/month", features: ["All Comprehensive features", "Grooming included", "20% product discount", "24/7 telehealth"], highlight: false },
+              { name: "Basic Wellness", price: "₦15,000", period: "/visit", features: ["Annual exam", "Core vaccinations", "Health consultation"], highlight: false },
+              { name: "Comprehensive Care", price: "₦45,000", period: "/month", features: ["All Basic features", "Dental cleaning", "Lab work included", "Priority booking"], highlight: true },
+              { name: "Premium VIP", price: "₦85,000", period: "/month", features: ["All Comprehensive features", "Grooming included", "20% product discount", "24/7 telehealth"], highlight: false },
             ].map((plan) => (
               <div key={plan.name} className={`hover-lift rounded-3xl p-8 shadow-md ${plan.highlight ? "bg-primary text-primary-foreground ring-4 ring-amber" : "bg-card"}`}>
                 <h3 className="font-display text-xl font-semibold">{plan.name}</h3>
