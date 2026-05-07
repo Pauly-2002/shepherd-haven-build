@@ -430,7 +430,7 @@ function AppointmentsPage() {
           <h3 className="font-display text-xl font-bold text-destructive">Need Emergency Help Now?</h3>
           <p className="mt-2 text-muted-foreground">Our emergency line is available 24/7</p>
           <a href="tel:18006877297" className="mt-4 inline-flex items-center gap-2 font-display text-2xl font-bold text-destructive">
-            📞 1-800-OUR-PAWS
+            📞 +234 800 OUR PAWS
           </a>
         </div>
 

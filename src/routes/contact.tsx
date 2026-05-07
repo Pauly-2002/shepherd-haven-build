@@ -51,13 +51,13 @@ function ContactPage() {
               <div className="mt-6 space-y-5">
                 <div className="flex items-start gap-3">
                   <MapPin className="mt-0.5 h-5 w-5 shrink-0 text-amber" />
-                  <p className="text-sm">4820 Shepherd Lane, Green Valley, TX 78701</p>
+                  <p className="text-sm">Agagu Road, Off Ilesha Garage, Akure</p>
                 </div>
                 <div className="flex items-start gap-3">
                   <Phone className="mt-0.5 h-5 w-5 shrink-0 text-amber" />
                   <div className="text-sm">
-                    <p>Main: (512) 555-0198</p>
-                    <p className="mt-1 font-semibold text-amber">Emergency: 1-800-OUR-PAWS (24/7)</p>
+                    <p>Main: +234 803 000 0000</p>
+                    <p className="mt-1 font-semibold text-amber">Emergency: +234 800 OUR PAWS (24/7)</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
@@ -92,7 +92,7 @@ function ContactPage() {
               <div>
                 <MapPin className="mx-auto h-8 w-8 text-primary" />
                 <p className="mt-2 text-sm text-muted-foreground">Map placeholder</p>
-                <p className="text-xs text-muted-foreground">4820 Shepherd Lane, Green Valley, TX</p>
+                <p className="text-xs text-muted-foreground">Agagu Road, Off Ilesha Garage, Akure</p>
               </div>
             </div>
           </div>

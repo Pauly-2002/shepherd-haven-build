@@ -69,9 +69,9 @@ export function Footer() {
           <div>
             <h3 className="mb-4 font-display text-lg font-semibold">Contact Us</h3>
             <ul className="space-y-3 text-sm text-dark-green-foreground/70">
-              <li>📍 4820 Shepherd Lane, Green Valley, TX 78701</li>
-              <li>📞 (512) 555-0198</li>
-              <li>🚨 Emergency: 1-800-OUR-PAWS</li>
+              <li>📍 Agagu Road, Off Ilesha Garage, Akure</li>
+              <li>📞 +234 803 000 0000</li>
+              <li>🚨 Emergency: +234 800 OUR PAWS</li>
               <li>📧 hello@ourshepherds.com</li>
               <li className="pt-2">
                 <span className="font-semibold text-dark-green-foreground">Hours:</span>
